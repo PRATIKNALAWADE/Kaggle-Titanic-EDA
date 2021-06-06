@@ -18,4 +18,4 @@ Your score is the percentage of passengers you correctly predict. This is known 
 
 
 # Scores
-Initial Score:0.73205 
+Initial Score:0.76315
